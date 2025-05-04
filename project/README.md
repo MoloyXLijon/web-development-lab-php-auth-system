@@ -100,14 +100,6 @@ Use HTTPS in production
 
 Protect forms with CSRF tokens in a live environment
 
-Expand with features like profile, image upload, or role-based access
-
-```
----
-
-Let me know if you want this `README.md` as a downloadable `.md` file or want to generate the full GitHub-ready version including `.gitignore` and license.
-```
-
 
 
 
